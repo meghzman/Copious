@@ -1,0 +1,66 @@
+[http-nio-9090-exec-2] ERROR com.copious.training.service.user_service.UserServiceImpl  - No user found
+[http-nio-9090-exec-1] ERROR com.copious.training.service.user_service.UserServiceImpl  - No user found
+[http-nio-9090-exec-3] INFO  com.copious.training.service.user_service.UserServiceImpl  - User found with id 1 and name: 
+[http-nio-9090-exec-1] INFO  com.copious.training.service.user_service.UserServiceImpl  - User found with id 1 and name: 
+[http-nio-9090-exec-2] INFO  com.copious.training.service.user_service.UserServiceImpl  - User found with id 1 and name: 
+[http-nio-9090-exec-1] ERROR com.copious.training.service.user_service.UserServiceImpl  - No user found
+[http-nio-9090-exec-6] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 1
+[http-nio-9090-exec-10] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - Here are the details of your tickets
+[http-nio-9090-exec-7] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - Here are the details of your tickets
+[http-nio-9090-exec-8] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - about to book single ticket
+[http-nio-9090-exec-9] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 3
+[http-nio-9090-exec-6] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 3
+[http-nio-9090-exec-1] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 3
+[http-nio-9090-exec-1] INFO  com.copious.training.service.user_service.UserServiceImpl  - Returning list of Users
+[http-nio-9090-exec-2] INFO  com.copious.training.service.user_service.UserServiceImpl  - User found with id 1
+[http-nio-9090-exec-3] ERROR com.copious.training.service.user_service.UserServiceImpl  - No user found
+[http-nio-9090-exec-10] INFO  com.copious.training.service.user_service.UserServiceImpl  - users who are eligible to vote are returned
+[http-nio-9090-exec-1] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 3
+[http-nio-9090-exec-3] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - Here are the details of your tickets
+[http-nio-9090-exec-1] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - Here are the details of your tickets
+[http-nio-9090-exec-4] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 1
+[http-nio-9090-exec-2] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 2
+[http-nio-9090-exec-3] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 3
+[http-nio-9090-exec-6] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 3
+[http-nio-9090-exec-7] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 3
+[http-nio-9090-exec-1] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - Here are the details of your tickets
+[http-nio-9090-exec-3] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - Here are the details of your tickets
+[http-nio-9090-exec-2] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - Here are the details of your tickets
+[http-nio-9090-exec-8] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - Here are the details of your tickets
+[http-nio-9090-exec-7] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 3
+[http-nio-9090-exec-9] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 3
+[http-nio-9090-exec-6] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 3
+[http-nio-9090-exec-8] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 3
+[http-nio-9090-exec-5] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 3
+[http-nio-9090-exec-2] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - fetching ticket with id 3
+[http-nio-9090-exec-1] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - Here are the details of your tickets
+[http-nio-9090-exec-6] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - Here are the details of your tickets
+[http-nio-9090-exec-9] INFO  com.copious.training.service.ticket.TicketService_EntityCache  - Here are the details of your tickets
+[http-nio-9090-exec-1] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - about to book single ticket
+[http-nio-9090-exec-1] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-3] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-4] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-9] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-1] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-2] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-3] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-2] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-1] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-1] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-2] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-3] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-4] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-6] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-8] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[http-nio-9090-exec-10] INFO  com.copious.training.service.ticket.TicketService_QueryCache  - Finding tickets by name
+[Async_ thread 11] INFO  com.copious.training.service.async.AsyncService  - sending message
+[Async_ thread 12] INFO  com.copious.training.service.async.AsyncService  - sending message
+[Async_ thread 11] INFO  com.copious.training.service.async.AsyncService  - sending messageAsync_ thread 11
+[http-nio-9090-exec-2] INFO  com.copious.training.service.async.AsyncService  - sending messagehttp-nio-9090-exec-2
+[http-nio-9090-exec-8] INFO  com.copious.training.service.async.AsyncService  - sending messagehttp-nio-9090-exec-8
+[http-nio-9090-exec-3] INFO  com.copious.training.service.async.AsyncService  - sending messagehttp-nio-9090-exec-3
+[Async_ thread 11] INFO  com.copious.training.service.async.AsyncService  - sending messageAsync_ thread 11
+[Async_ thread 11] INFO  com.copious.training.service.async.AsyncService  - sending messageAsync_ thread 11
+[Async_ thread 11] INFO  com.copious.training.service.async.AsyncService  - sending messageAsync_ thread 11
+[Async_ thread 11] INFO  com.copious.training.service.async.AsyncService  - sending messageAsync_ thread 11
+[Async_ thread 11] INFO  com.copious.training.exception.AsyncExceptionHandler  - method name sendMessage[513514984]error message / by zero
