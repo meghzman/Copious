@@ -43,18 +43,13 @@ public class SignUpService {
                 log.error("User already exist with name: " + find.getfName() + find.getlName());
                 throw new UserSignUpServiceException(ErrorMessages.Name_ALREADY_EXIST);
             }
-        }
 
-        for (UserSignupRequestModel find2 : usersignup) {
-            if (find2.getMobileNumber().equals(user.getMobileNumber())) {
-                log.error("User already exist with mobile: " + find2.getMobileNumber());
+            if (find.getMobileNumber().equals(user.getMobileNumber())) {
+                log.error("User already exist with mobile: " + find.getMobileNumber());
                 throw new UserSignUpServiceException(ErrorMessages.Mobile_ALREADY_EXIST);
             }
-        }
-
-        for (UserSignupRequestModel find3 : usersignup) {
-            if (find3.getId().equals(user.getId())) {
-                log.error("User already exist with Id: " + find3.getId());
+            if (find.getId().equals(user.getId())) {
+                log.error("User already exist with Id: " + find.getId());
                 throw new UserSignUpServiceException(ErrorMessages.Id_ALREADY_EXIST);
             }
         }
@@ -118,15 +113,14 @@ public class SignUpService {
         return "All users deleted";
     }
 
-    public UserSignUpResponseModel updateUser(String id, UserSignupRequestModel model) throws Exception{
+    public UserSignUpResponseModel updateUser(String id, UserSignupRequestModel model) throws Exception {
         for (int i = 0; i < usersignup.size(); i++) {
             UserSignupRequestModel user = usersignup.get(i);
             if (user.getId().equals(id)) {
                 usersignup.set(i, model);
                 UserSignUpResponseModel res = new UserSignUpResponseModel(model.getId(), model.getfName(), model.getlName(), model.getMobileNumber(), model.getAddress());
                 return res;
-            }
-            else throw new UserNotFoundException(ErrorMessages.NO_RECORDS_FOUND);
+            } else throw new UserNotFoundException(ErrorMessages.NO_RECORDS_FOUND);
 
         }
         return null;
